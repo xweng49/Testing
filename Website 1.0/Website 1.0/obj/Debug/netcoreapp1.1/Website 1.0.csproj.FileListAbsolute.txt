@@ -1,0 +1,9 @@
+C:\Visual Studio Projects\Projects VS 2017\Website 1.0\Website 1.0\bin\Debug\netcoreapp1.1\Website 1.0.deps.json
+C:\Visual Studio Projects\Projects VS 2017\Website 1.0\Website 1.0\bin\Debug\netcoreapp1.1\Website 1.0.runtimeconfig.json
+C:\Visual Studio Projects\Projects VS 2017\Website 1.0\Website 1.0\bin\Debug\netcoreapp1.1\Website 1.0.runtimeconfig.dev.json
+C:\Visual Studio Projects\Projects VS 2017\Website 1.0\Website 1.0\bin\Debug\netcoreapp1.1\Website 1.0.dll
+C:\Visual Studio Projects\Projects VS 2017\Website 1.0\Website 1.0\bin\Debug\netcoreapp1.1\Website 1.0.pdb
+C:\Visual Studio Projects\Projects VS 2017\Website 1.0\Website 1.0\obj\Debug\netcoreapp1.1\Website 1.0.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\Projects VS 2017\Website 1.0\Website 1.0\obj\Debug\netcoreapp1.1\Website 1.0.AssemblyInfo.cs
+C:\Visual Studio Projects\Projects VS 2017\Website 1.0\Website 1.0\obj\Debug\netcoreapp1.1\Website 1.0.dll
+C:\Visual Studio Projects\Projects VS 2017\Website 1.0\Website 1.0\obj\Debug\netcoreapp1.1\Website 1.0.pdb
